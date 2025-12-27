@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on 'VICHAAR'<br>I previously worked on 'SPARKSCULPT'<br>I'm have a keen interest in web development and also in full stack engineering.<br>
+Hi! there, I'm Abhishek Kumar Tiwari🚀<br> I'm a Full Stack Developer, passionate about building clean, functional, and user-centric web applications.<br> 🔭I'm currently working on 'VICHAAR'<br>🌱I'm currently learning React Framework and workflow
 
 
 ## 🌐 Socials:
